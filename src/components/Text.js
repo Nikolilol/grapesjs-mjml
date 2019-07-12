@@ -31,6 +31,7 @@ export default (editor, {
                     'line-height': '22px',
                     'align': 'left',
                 },
+                traits: ['id', 'title', 'href'],
             },
         }, {
 
